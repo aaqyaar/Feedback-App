@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "This is company is have a good service",
+      "rating": 10,
+      "id": 1
+    },
+    {
+      "text": "this company have a bad services",
+      "rating": 9,
+      "id": 2
+    },
+    {
+      "text": "React front end library",
+      "rating": 10,
+      "id": 3
+    }
+  ]
+}
